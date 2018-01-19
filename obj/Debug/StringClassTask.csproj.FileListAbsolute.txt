@@ -1,0 +1,6 @@
+/home/flydge/RiderProjects/StringClassTask/bin/Debug/StringClassTask.exe
+/home/flydge/RiderProjects/StringClassTask/bin/Debug/StringClassTask.pdb
+/home/flydge/RiderProjects/StringClassTask/obj/Debug/StringClassTask.csprojResolveAssemblyReference.cache
+/home/flydge/RiderProjects/StringClassTask/obj/Debug/StringClassTask.csproj.CoreCompileInputs.cache
+/home/flydge/RiderProjects/StringClassTask/obj/Debug/StringClassTask.exe
+/home/flydge/RiderProjects/StringClassTask/obj/Debug/StringClassTask.pdb
