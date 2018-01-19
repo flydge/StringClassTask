@@ -23,6 +23,7 @@ namespace StringClassTask
                 outputText = "String is empty"; 
             }
             
+            
             return outputText;
         }
     }
